@@ -3,7 +3,7 @@
 int main()
 {
   int a,b;
-  printf("Enter two values: ");
+  printf("Enter the values of a and b: ");
   scanf("%d %d",&a,&b);
   int c=a*b;
   printf("%d X %d = %d\n",a,b,c);
