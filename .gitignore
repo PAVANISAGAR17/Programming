@@ -1,3 +1,8 @@
+# Temporary/backup/editor files
+*~
+.*.un~
+*.exe
+*.out
 # === C/C++ ===
 *.o
 *.obj
